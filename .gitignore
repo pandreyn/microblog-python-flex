@@ -106,3 +106,6 @@ venv.bak/
 
 # VSCode folder
 .VSCode
+
+#logs dir
+[L]logs

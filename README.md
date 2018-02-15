@@ -28,3 +28,15 @@ In virtual env type:
 
 * flask db migrate -m "description message"
 * flask db upgrade
+
+To enable debug mode in flask:
+
+* set FLASK_DEBUG=1
+
+Enviroment variables to be able to send mails:
+
+* set MAIL_SERVER=smtp.googlemail.com
+* set MAIL_PORT=587
+* set MAIL_USE_TLS=1
+* set MAIL_USERNAME=<your-gmail-username>
+* set MAIL_PASSWORD=<your-gmail-password>
