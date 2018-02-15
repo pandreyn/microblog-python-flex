@@ -20,3 +20,11 @@ Used packages
 * [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org) - Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to your application. It aims to simplify using SQLAlchemy with Flask by providing useful defaults and extra helpers that make it easier to accomplish common tasks.
 * [Flask-Migrate](https://github.com/miguelgrinberg/flask-migrate) - SQLAlchemy database migrations for Flask applications using Alembic
 * [Flask-Login](https://flask-login.readthedocs.io/en/latest/) - Flask-Login provides user session management for Flask. It handles the common tasks of logging in, logging out, and remembering your users’ sessions over extended periods of time.
+
+DB Update
+---------
+
+In virtual env type:
+
+* flask db migrate -m "description message"
+* flask db upgrade
