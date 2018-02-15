@@ -2,11 +2,11 @@ microblog-python-flex
 =====================
 
 1. Install virtual env:
-    * python -m venv venv
-    * virtualenv venv
+    * pip install pipenv
+    * pipenv install
 
 2. Run virtual env:
-    * venv\Scripts\activate
+    * pipenv shell
 
 3. Run
     * set FLASK_APP=microblog.py
