@@ -1,7 +1,7 @@
 microblog-python-flex
 =====================
 
-[![Build Status](https://travis-ci.org/pandreyn/microblog-python-flex.svg?branch=master)](https://travis-ci.org/pandreyn/microblog-python-flex) [![Heroku](https://heroku-badge.herokuapp.com/?app=peaceful-woodland-31936)](https://peaceful-woodland-31936.herokuapp.com/)
+[![Build Status](https://travis-ci.org/pandreyn/microblog-python-flex.svg?branch=master)](https://travis-ci.org/pandreyn/microblog-python-flex) [![Heroku](https://heroku-badge.herokuapp.com/?app=peaceful-woodland-31936&style=flat)](https://peaceful-woodland-31936.herokuapp.com/)
 
 
 
