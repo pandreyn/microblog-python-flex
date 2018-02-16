@@ -1,6 +1,8 @@
 microblog-python-flex
 =====================
 
+[![Build Status](https://travis-ci.org/pandreyn/microblog-python-flex.svg?branch=master)](https://travis-ci.org/pandreyn/microblog-python-flex)
+
  This app on Heroku - [https://peaceful-woodland-31936.herokuapp.com/](https://peaceful-woodland-31936.herokuapp.com/)
 
 1. Install virtual env:
