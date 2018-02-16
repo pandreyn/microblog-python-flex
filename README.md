@@ -1,6 +1,8 @@
 microblog-python-flex
 =====================
 
+ This app on Heroku - [https://peaceful-woodland-31936.herokuapp.com/](https://peaceful-woodland-31936.herokuapp.com/)
+
 1. Install virtual env:
     * pip install pipenv
     * pipenv install
@@ -38,5 +40,5 @@ Enviroment variables to be able to send mails:
 * set MAIL_SERVER=smtp.googlemail.com
 * set MAIL_PORT=587
 * set MAIL_USE_TLS=1
-* set MAIL_USERNAME=<your-gmail-username>
-* set MAIL_PASSWORD=<your-gmail-password>
+* set MAIL_USERNAME=< your-gmail-username >
+* set MAIL_PASSWORD=< your-gmail-password >
