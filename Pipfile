@@ -14,6 +14,8 @@ flask-migrate = "*"
 flask-login = "*"
 gunicorn = "*"
 "psycopg2" = "*"
+flask-mail = "*"
+pyjwt = "*"
 
 
 [dev-packages]

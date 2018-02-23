@@ -108,4 +108,4 @@ venv.bak/
 .VSCode
 
 #logs dir
-[L]logs
+logs/
