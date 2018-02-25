@@ -16,6 +16,7 @@ gunicorn = "*"
 "psycopg2" = "*"
 flask-mail = "*"
 pyjwt = "*"
+flask-bootstrap = "*"
 
 
 [dev-packages]
