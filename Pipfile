@@ -17,6 +17,7 @@ gunicorn = "*"
 flask-mail = "*"
 pyjwt = "*"
 flask-bootstrap = "*"
+flask-moment = "*"
 
 
 [dev-packages]

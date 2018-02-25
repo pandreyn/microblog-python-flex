@@ -26,6 +26,8 @@ Used packages
 * [Flask-Login](https://flask-login.readthedocs.io/en/latest/) - Flask-Login provides user session management for Flask. It handles the common tasks of logging in, logging out, and remembering your users’ sessions over extended periods of time.
 * [Flask-Mail](https://pythonhosted.org/Flask-Mail/) - The Flask-Mail extension provides a simple interface to set up SMTP with your Flask application and to send messages from your views and scripts.
 * [PyJWT](https://pyjwt.readthedocs.io/en/latest/) - PyJWT is a Python library which allows you to encode and decode JSON Web Tokens (JWT). JWT is an open, industry-standard (RFC 7519) for representing claims securely between two parties.
+* [Flask-Bootstrap](https://pythonhosted.org/Flask-Bootstrap) - Flask-Bootstrap packages [Bootstrap](http://getbootstrap.com/) into an extension that mostly consists of a blueprint named ‘bootstrap’. It can also create links to serve Bootstrap from a CDN.
+* [Flask-Moment](https://github.com/miguelgrinberg/flask-moment/) - his extension enhances Jinja2 templates with formatting of dates and times using [moment.js](http://momentjs.com/).
 
 DB Update
 ---------
